@@ -1,12 +1,14 @@
 # Portfolio
-Bachelor's degree: Mechanical Engineering, Purdue University
-Certificate: Data Science, University of Washington
+[**Bachelor's Degree**: Mechanical Engineering, Purdue University](https://engineering.purdue.edu/ME/Undergraduate/ProgramMap) <br/>
+[**Certificate**: Data Science, University of Washington](https://www.pce.uw.edu/certificates/data-science) <br/>
 
 ## Data Mining
 
 ## Data Preparation / Pre-Processing
 
 ## Data Cleaning
+
+## Data Reduction
 
 ## Data Manipulation / Transformation
 
@@ -15,24 +17,36 @@ Certificate: Data Science, University of Washington
 ## Data Prediction / Modeling
 
 ### Supervised
-Logistic Regression
-Linear Regression
+Logistic Regression<br/>
+Linear Regression<br/>
 ### Unsupervised
 Clustering
 
+## Model Evaluation
+
 # Languages 
-Python 
-SQL
+Python <br/>
+SQL<br/>
 
 # Libraries / ML Toolkits
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Plotly
-SciKit Learn (Sklearn)
-XGBoost
-PyTorch
-Tensorflow
-Keras
-NLTK
+Geopandas <br/>
+Itertools <br/>
+Keras <br/>
+Math <br/>
+Matplotlib <br/>
+NLTK <br/>
+Numpy <br/>
+Pandas <br/>
+Plotly <br/>
+Pymc <br/>
+Pystan <br/>
+PyTorch <br/>
+Re.ex <br/>
+SciKit Learn (Sklearn) <br/>
+Scipy <br/>
+Seaborn <br/>
+Statsmodels <br/>
+String <br/>
+Tensorflow <br/>
+XGBoost <br/>
+
