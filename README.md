@@ -19,6 +19,8 @@
 ### Supervised
 Logistic Regression<br/>
 Linear Regression<br/>
+[Polynomial Regression](https://github.com/bergerwithfries/UW-Classwork/blob/main/DS520-Alissa-L10-submitted.ipynb) <br/>
+[Piecewise Regression with Splines](https://github.com/bergerwithfries/UW-Classwork/blob/main/DS520-Alissa-L10-submitted.ipynb) <br/>
 ### Unsupervised
 Clustering
 
