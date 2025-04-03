@@ -47,7 +47,11 @@ Re.ex <br/>
 SciKit Learn (Sklearn) <br/>
 Scipy <br/>
 Seaborn <br/>
+* [Scatterplot](https://github.com/bergerwithfries/UW-Classwork/blob/main/DS520-Alissa-L10-submitted.ipynb) <br/>
+
 Statsmodels <br/>
+* [ols with R-style formulas](https://github.com/bergerwithfries/UW-Classwork/blob/main/DS520-Alissa-L10-submitted.ipynb) <br/>
+
 String <br/>
 Tensorflow <br/>
 XGBoost <br/>
